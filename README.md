@@ -9,3 +9,4 @@ Topics included:
 - PYTHON 
 - WEB DEVELOPMENT ( CSS, HTML, JAVASCRIPT )
 
+The library used in all projects: https://github.com/cs50/libcs50.git
