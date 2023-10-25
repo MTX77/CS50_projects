@@ -1,5 +1,5 @@
 # CS50_projects
-Projects done in HARVARDx CS50x course https://pll.harvard.edu/course/cs50-introduction-computer-science
+Projects done in HARVARD x CS50x course https://pll.harvard.edu/course/cs50-introduction-computer-science
 
 Topics included:
 - ALGORITHMS
